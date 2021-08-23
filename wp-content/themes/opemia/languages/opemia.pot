@@ -1,0 +1,561 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Opemia\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-01-14 08:44+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.5.0; wp-5.6\n"
+"X-Domain: opemia"
+
+#: template-parts/content/content-single.php:51
+#, php-format
+msgid "%1$s %2$s"
+msgstr ""
+
+#: includes/template-tags.php:71
+msgid ", "
+msgstr ""
+
+#: includes/customizer-repeater/class/customizer-repeater-control.php:742
+#: includes/customizer-repeater/class/customizer-repeater-control.php:775
+msgid "Add Icon"
+msgstr ""
+
+#: includes/customizer-repeater/class/customizer-repeater-control.php:35
+msgid "Add new field"
+msgstr ""
+
+#: includes/theme-options/footer-section.php:66
+msgid "Add New Sponsor"
+msgstr ""
+
+#: functions.php:167
+msgid "Add widgets here."
+msgstr ""
+
+#: includes/theme-options/header-section.php:76
+msgid "Address"
+msgstr ""
+
+#: template-parts/sections/title-bar.php:43
+msgid "Author:"
+msgstr ""
+
+#: includes/theme-options/copyright-section.php:86
+#: includes/theme-options/breadcrumbs-section.php:66
+#: includes/theme-options/footer-section.php:126
+#: includes/theme-options/footer-section.php:201
+msgid "Background Image"
+msgstr ""
+
+#: includes/class-breadcrumbs.php:123
+msgid "Blog and Artical"
+msgstr ""
+
+#: includes/theme-options/breadcrumbs-section.php:12
+#: includes/theme-options/breadcrumbs-section.php:20
+msgid "Breadcrumbs"
+msgstr ""
+
+#: includes/theme-options/header-section.php:388
+#: includes/customizer-repeater/class/customizer-repeater-control.php:316
+#: includes/customizer-repeater/class/customizer-repeater-control.php:483
+msgid "Button Label"
+msgstr ""
+
+#: includes/theme-options/header-section.php:405
+msgid "Button Link"
+msgstr ""
+
+#: includes/theme-options/header-section.php:353
+msgid "Button Setting"
+msgstr ""
+
+#: includes/customizer-repeater/class/customizer-repeater-control.php:331
+#: includes/customizer-repeater/class/customizer-repeater-control.php:497
+msgid "Button Text"
+msgstr ""
+
+#: includes/customizer-repeater/class/customizer-repeater-control.php:696
+msgid "Center"
+msgstr ""
+
+#: includes/customizer-repeater/class/customizer-repeater-control.php:386
+#: includes/customizer-repeater/class/customizer-repeater-control.php:453
+msgid "Color"
+msgstr ""
+
+#: comments.php:55
+msgid "Comments are closed."
+msgstr ""
+
+#: includes/theme-options/header-section.php:132
+msgid "Contact Number"
+msgstr ""
+
+#. %s: Name of current post. Only visible to screen readers
+#: page.php:31 template-parts/content/content-single.php:27
+#, php-format
+msgid "Continue reading<span class=\"screen-reader-text\"> \"%s\"</span>"
+msgstr ""
+
+#: includes/theme-options/copyright-section.php:21
+#: includes/theme-options/footer-section.php:136
+msgid "Copyright"
+msgstr ""
+
+#: includes/theme-options/copyright-section.php:68
+#: includes/theme-options/footer-section.php:183
+msgid "Copyright Content"
+msgstr ""
+
+#: footer.php:18 includes/theme-options/copyright-section.php:59
+#: includes/theme-options/footer-section.php:174
+msgid "Copyright © 2021, OPEMIA. All Right Reserved"
+msgstr ""
+
+#: includes/customizer-repeater/class/customizer-repeater-control.php:40
+msgid "Customizer Repeater"
+msgstr ""
+
+#: includes/customizer-repeater/class/customizer-repeater-control.php:420
+#, php-format
+msgid "Delete %s"
+msgstr ""
+
+#: includes/customizer-repeater/class/customizer-repeater-control.php:555
+msgid "Delete field"
+msgstr ""
+
+#: includes/customizer-repeater/class/customizer-repeater-control.php:309
+#: includes/customizer-repeater/class/customizer-repeater-control.php:476
+msgid "Description"
+msgstr ""
+
+#: includes/customizer-repeater/class/customizer-repeater-control.php:404
+#: includes/customizer-repeater/class/customizer-repeater-control.php:544
+msgid "Designation"
+msgstr ""
+
+#: includes/class-comments-walker.php:29 includes/class-comments-walker.php:65
+msgid "Edit"
+msgstr ""
+
+#. Author of the theme
+msgid "ElementInvader"
+msgstr ""
+
+#: comments.php:69
+msgid "Email"
+msgstr ""
+
+#: includes/theme-functions.php:55
+msgid "Facebook"
+msgstr ""
+
+#: functions.php:81
+msgid "Footer menu"
+msgstr ""
+
+#: includes/theme-options/copyright-section.php:13
+#: includes/theme-options/footer-section.php:13
+msgid "Footer Section"
+msgstr ""
+
+#: functions.php:176
+msgid "Footer Widget Area"
+msgstr ""
+
+#: comments.php:68
+msgid "Full Name"
+msgstr ""
+
+#: includes/theme-options/header-section.php:324
+msgid "Header Search"
+msgstr ""
+
+#: includes/theme-options/header-section.php:12
+msgid "Header Section"
+msgstr ""
+
+#: includes/theme-options/header-section.php:49
+msgid "Hide / Show Address"
+msgstr ""
+
+#: includes/theme-options/breadcrumbs-section.php:40
+msgid "Hide / Show Breadcrumbs"
+msgstr ""
+
+#: includes/theme-options/header-section.php:372
+msgid "Hide / Show Call to Action"
+msgstr ""
+
+#: includes/theme-options/header-section.php:277
+msgid "Hide / Show Cart"
+msgstr ""
+
+#: includes/theme-options/copyright-section.php:41
+#: includes/theme-options/footer-section.php:156
+msgid "Hide / Show Copyright"
+msgstr ""
+
+#: includes/theme-options/footer-section.php:231
+msgid "Hide / Show Footer Menu"
+msgstr ""
+
+#: includes/theme-options/header-section.php:107
+msgid "Hide / Show Phone Number"
+msgstr ""
+
+#: includes/theme-options/header-section.php:344
+msgid "Hide / Show Search"
+msgstr ""
+
+#: includes/theme-options/footer-section.php:39
+msgid "Hide / Show Sponsers"
+msgstr ""
+
+#: includes/theme-options/header-section.php:220
+msgid "Hide / Show User Heart"
+msgstr ""
+
+#: includes/theme-options/header-section.php:163
+msgid "Hide / Show User Icon"
+msgstr ""
+
+#: includes/theme-options/footer-section.php:101
+msgid "Hide / Show Widgets"
+msgstr ""
+
+#: includes/class-breadcrumbs.php:192
+msgid "Home"
+msgstr ""
+
+#. URI of the theme
+msgid "https://elementinvader.com"
+msgstr ""
+
+#. Author URI of the theme
+msgid "https://elementinvader.com/page/search-form"
+msgstr ""
+
+#: includes/customizer-repeater/class/customizer-repeater-control.php:603
+#: includes/customizer-repeater/class/customizer-repeater-control.php:710
+msgid "Icon"
+msgstr ""
+
+#: includes/customizer-repeater/class/customizer-repeater-control.php:644
+#: includes/customizer-repeater/class/customizer-repeater-control.php:711
+msgid "Image"
+msgstr ""
+
+#: includes/customizer-repeater/class/customizer-repeater-control.php:707
+msgid "Image type"
+msgstr ""
+
+#: 404.php:21
+msgid ""
+"It looks like nothing was found at this location. Maybe try one of the links "
+"below or a search?"
+msgstr ""
+
+#: template-parts/content/content-none.php:44
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: template-parts/sections/title-bar.php:37
+msgid "Latest Blog"
+msgstr ""
+
+#: includes/class-breadcrumbs.php:82 template-parts/sections/title-bar.php:25
+msgid "Latest News"
+msgstr ""
+
+#. %s: post title
+#: includes/template-tags.php:93
+#, php-format
+msgid "Leave a Comment<span class=\"screen-reader-text\"> on %s</span>"
+msgstr ""
+
+#: includes/customizer-repeater/class/customizer-repeater-control.php:688
+msgid "Left"
+msgstr ""
+
+#: includes/theme-options/header-section.php:189
+#: includes/theme-options/header-section.php:246
+#: includes/theme-options/header-section.php:303
+#: includes/customizer-repeater/class/customizer-repeater-control.php:342
+#: includes/customizer-repeater/class/customizer-repeater-control.php:507
+#: includes/customizer-repeater/class/customizer-repeater-control.php:734
+#: includes/customizer-repeater/class/customizer-repeater-control.php:756
+msgid "Link"
+msgstr ""
+
+#: includes/theme-options/footer-section.php:211
+msgid "Menu"
+msgstr ""
+
+#: includes/enqueue.php:21
+msgctxt "Montserrat font: on or off"
+msgid "on"
+msgstr ""
+
+#: 404.php:30
+msgid "Most Used Categories"
+msgstr ""
+
+#: includes/theme-functions.php:265
+msgid "Next"
+msgstr ""
+
+#: includes/theme-functions.php:251
+msgid "Next Post"
+msgstr ""
+
+#: includes/customizer-repeater/class/customizer-repeater-control.php:712
+msgid "None"
+msgstr ""
+
+#: includes/customizer-repeater/class/customizer-repeater-control.php:608
+#, php-format
+msgid ""
+"Note: Some icons may not be displayed here. You can see the full list of "
+"icons at %1$s."
+msgstr ""
+
+#: template-parts/content/content-none.php:14
+msgid "Nothing Found"
+msgstr ""
+
+#: 404.php:17
+msgid "Oops! That page can&rsquo;t be found."
+msgstr ""
+
+#. Name of the theme
+msgid "Opemia"
+msgstr ""
+
+#. Description of the theme
+msgid ""
+"Opemia Is fast, clean, Best Responsive Medical WordPress Theme, The theme is "
+"fully widgetized, Opemia is SEO friendly, WPML, translation and RTL ready."
+msgstr ""
+
+#: includes/customizer-repeater/class/customizer-repeater-control.php:592
+msgid "Open link in new tab:"
+msgstr ""
+
+#: template-parts/sections/title-bar.php:30
+msgid "Page Not Found"
+msgstr ""
+
+#: template-parts/content/content-single.php:40
+msgid "Pages:"
+msgstr ""
+
+#: comments.php:71
+msgid "Phone"
+msgstr ""
+
+#: includes/class-comments-walker.php:64
+msgid "Pingback:"
+msgstr ""
+
+#: includes/theme-functions.php:94
+msgid "Pinterest"
+msgstr ""
+
+#: searchform.php:4
+msgctxt "placeholder"
+msgid "Search Now..."
+msgstr ""
+
+#: comments.php:89
+msgid "Please sing in to post your comment or singup if you dont have account."
+msgstr ""
+
+#: includes/enqueue.php:17
+msgctxt "Poppins font: on or off"
+msgid "on"
+msgstr ""
+
+#. %s: post author.
+#: includes/template-tags.php:36
+#, php-format
+msgctxt "post author"
+msgid "%s %s"
+msgstr ""
+
+#: comments.php:94
+msgid "Post Comment"
+msgstr ""
+
+#: includes/theme-functions.php:241
+msgid "Previous"
+msgstr ""
+
+#: includes/theme-functions.php:227
+msgid "Previous Post"
+msgstr ""
+
+#: functions.php:80
+msgid "Primary menu"
+msgstr ""
+
+#: includes/class-breadcrumbs.php:76 template-parts/sections/title-bar.php:39
+msgid "Product Details"
+msgstr ""
+
+#: template-parts/sections/title-bar.php:47
+msgid "Products"
+msgstr ""
+
+#. 1: link to WP admin new post page.
+#: template-parts/content/content-none.php:24
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: includes/customizer-repeater/class/customizer-repeater-control.php:737
+#: includes/customizer-repeater/class/customizer-repeater-control.php:767
+msgid "Remove Icon"
+msgstr ""
+
+#: includes/customizer-repeater/class/customizer-repeater-control.php:692
+msgid "Right"
+msgstr ""
+
+#: comments.php:73
+msgid ""
+"Save my name, email, and website in this browser for the next time I comment."
+msgstr ""
+
+#: template-parts/header/header.php:106 template-parts/header/header.php:107
+msgid "Search Here..."
+msgstr ""
+
+#: template-parts/sections/title-bar.php:32
+msgid "Search results"
+msgstr ""
+
+#: includes/customizer-repeater/class/customizer-repeater-control.php:396
+#: includes/customizer-repeater/class/customizer-repeater-control.php:535
+msgid "Shortcode"
+msgstr ""
+
+#: functions.php:165
+msgid "Sidebar"
+msgstr ""
+
+#: includes/theme-options/header-section.php:20
+msgid "Site Identity"
+msgstr ""
+
+#: includes/customizer-repeater/class/customizer-repeater-control.php:490
+msgid "skill"
+msgstr ""
+
+#: includes/customizer-repeater/class/customizer-repeater-control.php:323
+msgid "skills"
+msgstr ""
+
+#: header.php:26
+msgid "Skip to content"
+msgstr ""
+
+#: includes/customizer-repeater/class/customizer-repeater-control.php:684
+msgid "Slide Align"
+msgstr ""
+
+#: includes/customizer-repeater/class/customizer-repeater-control.php:673
+msgid "Slider Image"
+msgstr ""
+
+#: includes/customizer-repeater/class/customizer-repeater-control.php:720
+msgid "Social icons"
+msgstr ""
+
+#: template-parts/content/content-none.php:37
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: includes/theme-options/footer-section.php:64
+#: includes/theme-options/footer-section.php:67
+msgid "Sponsor"
+msgstr ""
+
+#: includes/theme-options/footer-section.php:20
+msgid "Sponsors"
+msgstr ""
+
+#: comments.php:70
+msgid "Subject"
+msgstr ""
+
+#: includes/customizer-repeater/class/customizer-repeater-control.php:302
+#: includes/customizer-repeater/class/customizer-repeater-control.php:469
+msgid "Subtitle"
+msgstr ""
+
+#: includes/customizer-repeater/class/customizer-repeater-control.php:294
+#: includes/customizer-repeater/class/customizer-repeater-control.php:461
+msgid "Title"
+msgstr ""
+
+#: includes/theme-options/header-section.php:30
+msgid "Topbar"
+msgstr ""
+
+#. %1$s: smiley
+#: 404.php:48
+#, php-format
+msgid "Try looking in the monthly archives. %1$s"
+msgstr ""
+
+#: includes/theme-functions.php:112
+msgid "Tumblr"
+msgstr ""
+
+#: includes/theme-functions.php:75
+msgid "Twitter"
+msgstr ""
+
+#: includes/customizer-repeater/class/customizer-repeater-control.php:647
+#: includes/customizer-repeater/class/customizer-repeater-control.php:676
+msgid "Upload Image"
+msgstr ""
+
+#: includes/customizer-repeater/class/customizer-repeater-control.php:356
+#: includes/customizer-repeater/class/customizer-repeater-control.php:520
+msgid "Video Url"
+msgstr ""
+
+#: includes/theme-options/footer-section.php:82
+msgid "Widgets"
+msgstr ""
+
+#: includes/class-comments-walker.php:32
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: comments.php:30
+msgid "Your Comments"
+msgstr ""
+
+#: comments.php:72 comments.php:77 comments.php:79
+msgid "Your Message"
+msgstr ""

@@ -1,0 +1,62 @@
+/*
+Theme Name: Consultly
+Theme URI: https://themeansar.com/free-themes/consultly/
+Author: themeansar
+Author URI: https://themeansar.com
+Template: consultup
+Description: Consultly WordPress theme ideal for a business or perfect solutions for corporate, consulting, wedding planners, agency, law firms, finance, law travel, recipes, sport/medical shops, startups, online agencies, portfolios, freelancers, E-commerce.  The theme is responsive, WPML, Retina ready, SEO friendly (Live preview : https://demo.themeansar.com/consultup/transparent/)
+Version: 0.3
+Tags: two-columns, three-columns, left-sidebar, right-sidebar, translation-ready, custom-background, custom-logo, featured-images, footer-widgets, full-width-template, blog, e-commerce, entertainment
+License: GNU General Public License v3 or later
+License URI: http://www.gnu.org/licenses/gpl.html
+Text Domain: consultly
+*/
+
+.navbar-header {
+    margin-left: -15px;
+}
+.navbar-toggle {
+    margin: 5px auto;
+}
+.ti-standard .navbar-wp .navbar-nav > li > a {
+    padding: 0px 12px;
+}
+@media (max-width: 768.99px) {
+.consultup-breadcrumb-title h1 {
+    font-size: 28px;
+}
+}
+@media (max-width: 991.98px) {
+	.container.desk-menu {
+		display: none;
+	}
+	.container.mobi-menu {
+		display: block;
+	}
+	.container.mobi-menu .navbar-header {
+		display: flex;
+		justify-content: space-between;
+		align-items: center;
+		width: 100%;
+		padding-left: 15px;
+		padding-right: 15px;
+	}
+	.ti-headwidget .navbar-wp {
+    	top: inherit;
+	}
+}
+/*==================== blocks ====================*/
+.wp-block-search .wp-block-search__input {
+    border: 2px solid #eef3fb;
+}
+.wp-block-search .wp-block-search__button{
+    border: 2px solid;
+}
+#consultup-slider .btn:last-child {
+    margin-left: 0;
+}
+#consultup-slider .slide-caption {
+    width: 65%;
+    margin: 0% auto auto;
+    text-align: center;
+}
